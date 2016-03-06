@@ -44,6 +44,7 @@ body {
 	display: inline-block;
 	font-size: 60px;
 	width: 300px;
+	font-weight: 700;
 }
 
 .title2 {
@@ -85,7 +86,7 @@ section {
 .map {
  position: relative;
  padding-bottom: 56.25%;
- padding-top: 30px;
+ padding-top: 60px;
  height: 100%;
  width: 100%;
  overflow: hidden;
