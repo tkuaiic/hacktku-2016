@@ -1,0 +1,147 @@
+.logo{
+	width: 300px;
+}
+
+body { 
+	padding-top: 50px;
+	font-family: "微軟正黑體", sans-serif;
+}
+
+.jumbotron {
+	text-align: center;
+	font-family: "微軟正黑體", sans-serif;
+}
+
+.content1 {
+	text-align: center;
+	max-width: 800px;
+	margin: 0 auto;
+}
+
+.content2 {
+	text-align: center;
+	max-width: 800px;
+	margin: 0 auto;
+}
+
+.content3 {
+	text-align: left;
+}
+
+.content4 {
+	text-align: center;
+	max-width: 370px;
+	margin: 0 auto;
+}
+
+.content3 p {
+	font-size: 100%;
+}
+
+.title1 {
+	line-height: 1.2em;
+	border-bottom: 4px solid #e3e3e3;
+	display: inline-block;
+	font-size: 60px;
+	width: 300px;
+}
+
+.title2 {
+	font-weight: 200;
+	font-size: 30px;
+	font-family: "微軟正黑體", sans-serif;
+}
+
+p {
+	margin: 1em 0;
+	font-size: 120%;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.date {
+	color: #FF9224;
+	font-size: 20px;
+}
+
+th, td {
+    /* min-width: 150px; */
+    text-align: left;
+    font-size: 120%;
+}
+
+.btn {
+	color: ;
+}
+
+section {
+	padding-top: 50px;
+}
+
+.map {
+	position: relative;
+}
+
+.map {
+ position: relative;
+ padding-bottom: 56.25%;
+ padding-top: 30px;
+ height: 100%;
+ width: 100%;
+ overflow: hidden;
+}
+.map iframe,
+.map object,
+.map embed {
+ position: absolute;
+ top: 0;
+ left: 0;
+ width: 100%;
+ padding-left: 15px;
+ padding-right: 15px;
+}
+
+.map h2,
+.map p {
+
+	top: 0;
+	right: 0;
+	max-width: 800px;
+	max-height: 600px;
+}
+
+/*
+.tkuName {
+	color: #FF9224;
+}
+
+.map-text {
+	position: relative;
+	padding-bottom: 56.25%;
+	padding-top: 30px;
+	height: 0;
+	overflow: hidden;
+	position: absolute;
+	top: 0;
+	padding-right: 0;
+	padding-left: 400;
+}
+*/
+.addr {
+	color: gray;
+	size: 90%;
+}
+
+.row
+{
+	margin-left: 0px;
+	margin-right: 0px;
+
+}
+
+.logo-partner {
+	display: block;
+	max-width: 100%;
+	height: auto;
+	margin: 0 auto;
+}
